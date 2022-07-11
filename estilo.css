@@ -1,0 +1,147 @@
+#menu1 li{
+    list-style-type: none;
+    display: inline;
+}
+#menu1 a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    float: right;
+    border-radius: 19px;
+    margin: 0 13px;
+   
+
+}
+#menu:hover{
+    background-color:white
+}
+
+@font-face{
+    src: url(letras/Louis\ George\ Cafe\ Light.ttf);
+    font-family: louis;
+}
+li{
+    font-family: louis;
+}
+ 
+#logo{
+    
+    margin-left: 800px;
+}
+#menu2 li{
+    list-style-type: none;
+    display: inline;
+}
+#menu2 a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 19px;
+    margin: 0 13px;
+}
+#menu2{
+    margin-left: 750px;
+}
+
+#ropa:hover{
+    background-color:white
+}
+#busqueda{
+    margin-left: 650px;
+}
+
+#solid{
+    width: 300px;
+    height: 22px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin-left:58px;
+}
+.fa-solid{
+    margin-left:10px;
+}
+
+body{
+    background-color: rgb(255, 224, 229);
+}
+
+#principal{
+    width: 900px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: -220px;
+}
+
+.caja{
+        width: 500px;
+        height: 300px;
+    
+}
+
+h1{
+    
+    font-family: louis;
+    text-align: center;
+}
+
+.caja1{
+    width: 400px;
+    height: 200px;
+   
+    float: right;
+    
+}
+
+.caja2{
+    width: 500px;
+    height: 300px;
+}
+
+.caja3{
+    width: 400px;
+    height: 200px;
+    
+   float: right;
+   margin: 20px 0px;
+}
+
+body{
+ background-image: url(imagenes/fondo.jpeg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.caja img{
+    width: 230px;
+    height: 250px;
+    margin: auto;
+    margin-left: 135px;
+  
+}
+
+.caja3 img{
+    width: 260px;
+    height: 220px;
+    margin: auto;
+    margin-left: 70px;
+
+    }
+
+.caja2 img{
+        width: 260px;
+        height: 220px;
+        margin: auto;
+        margin-left: 130px;
+    }
+
+    .caja1 img{
+        width: 230px;
+        height: 250px;
+        margin: auto;
+        margin-left: 80px;
+      }
